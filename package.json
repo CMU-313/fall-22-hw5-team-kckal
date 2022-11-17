@@ -1,0 +1,23 @@
+{
+  "name": "fall-22-hw5-team-kckal",
+  "version": "1.0.0",
+  "description": "<h3 align=\"center\">   <img src=\"https://teedy.io/img/github-title.png\" alt=\"Teedy\" width=500 /> </h3>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CMU-313/fall-22-hw5-team-kckal.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CMU-313/fall-22-hw5-team-kckal/issues"
+  },
+  "homepage": "https://github.com/CMU-313/fall-22-hw5-team-kckal#readme",
+  "devDependencies": {
+    "eslint": "^8.27.0",
+    "eslint-config-google": "^0.14.0"
+  }
+}
